@@ -131,7 +131,7 @@ Release process
 
 See [RELEASE.md](https://github.com/openlayers/ol-cesium/blob/master/RELEASE.md).
 
-操作步骤
+项目启动
 ---------------
 
 - npm i
