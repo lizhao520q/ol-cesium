@@ -134,5 +134,5 @@ See [RELEASE.md](https://github.com/openlayers/ol-cesium/blob/master/RELEASE.md)
 操作步骤
 ---------------
 
-npm i
-npm start
+- npm i
+- npm start
